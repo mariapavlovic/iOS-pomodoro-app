@@ -5,7 +5,9 @@ This is the initial page, before you see the actual timer. You can choose your s
 
 The default is study-25min, break-5min, rounds-1. But you can click on the other options if you prefer another combination.
 
-![default_home](https://user-images.githubusercontent.com/32315656/118614271-900d6200-b78d-11eb-96a9-f251a4fd1283.png
+I will be formatting these screenshots soon, please don't mind how huge they are right now!
+
+![default_home](https://user-images.githubusercontent.com/32315656/118614271-900d6200-b78d-11eb-96a9-f251a4fd1283.png)
 ![default_timer](https://user-images.githubusercontent.com/32315656/118614544-e11d5600-b78d-11eb-9263-7576e991a678.png)
 
 ![custom_home_initial](https://user-images.githubusercontent.com/32315656/118614627-f72b1680-b78d-11eb-8c11-4de31741af7b.png)
